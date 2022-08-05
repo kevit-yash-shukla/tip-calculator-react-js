@@ -1,4 +1,4 @@
-#Tip Calculator React App
+# Tip Calculator React app
 
 
 to run this project follow below steps:
@@ -8,6 +8,18 @@ to run this project follow below steps:
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+# Getting started
+- Clone the repository
+```
+git clone  <git lab template url> <project_name>
+```
+
+- Install dependencies
+```
+cd <project_name>
+npm install
+```
 
 In the project directory, you can run:
 
